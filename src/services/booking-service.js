@@ -44,4 +44,4 @@ class BoookingService {
     }
   }
 }
-module.exports = BoookingService;
+module.exports = BoookingService;   
